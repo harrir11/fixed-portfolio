@@ -14,7 +14,7 @@ class About extends React.Component {
           porcentage: "90%",
           value: "90"
         },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
+        { id: "Java", content: "Java", porcentage: "90%", value: "90" },
         {
           id: "ReactJS_skill",
           content: "ReactJS",
@@ -28,8 +28,8 @@ class About extends React.Component {
           value: "75"
         },
         {
-          id: "VanillaJS_skill",
-          content: "VanillaJS",
+          id: "Typescript",
+          content: "Typescript",
           porcentage: "85%",
           value: "85"
         },
@@ -44,17 +44,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I’m Rebecca Harris, a full-stack developer who loves building projects end-to-end—from shaping backend APIs to designing clean, interactive frontends. My background is in backend engineering, where I worked with Python, Java, SQL, and AWS to build secure, distributed systems in an enterprise environment. Over time, I’ve expanded into frontend work with React, Next.js, and Tailwind, and I enjoy the creativity that comes with turning raw data into intuitive interfaces."
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Outside of work, I create projects that blend tech with curiosity—like an interactive map that tracks egg prices globally, or a Reddit scraper that analyzes sentiment over time. These projects keep me learning, experimenting, and connecting the dots between data, design, and storytelling."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "What drives me is building tools that are not only technically solid but also meaningful and responsible. I’m excited to keep growing as a developer while contributing to systems that are transparent, useful, and people-centered."
         }
       ]
     };
