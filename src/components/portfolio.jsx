@@ -45,10 +45,13 @@ class Portfolio extends React.Component {
                       <div className="w-like">
                         {/* Separate external link (no nesting inside the lightbox <a>) */}
                         <a
-                          href="https://egg-2qjr4c07m-rebecca-harris-projects.vercel.app/"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
+                                      className="btn btn-sm btn-outline-primary"
+                                      href="https://egg-2qjr4c07m-rebecca-harris-projects.vercel.app/"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      aria-label="Open Egg tracker live site"
+                                    >
+                                      View Live
                         </a>
                       </div>
                     </div>
@@ -80,10 +83,13 @@ class Portfolio extends React.Component {
                       <div className="w-like">
                         {/* Separate external link (no nesting inside the lightbox <a>) */}
                         <a
-                          href="https://github.com/harrir11/world_scrape"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
+                                      className="btn btn-sm btn-outline-primary"
+                                      href="https://github.com/harrir11/world_scrape"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      aria-label="Open Egg tracker live site"
+                                    >
+                                      View Code
                         </a>
                       </div>
                     </div>
